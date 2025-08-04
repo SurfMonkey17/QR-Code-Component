@@ -12,6 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+Challenge to recreate a QR code page from an image.
+
 ### Screenshot
 
 ![](images/QRcode.png)
